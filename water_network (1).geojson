@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "water_network",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element": "node", "id": 5318580030, "man_made": "water_works", "name": "Pump Room" }, "geometry": { "type": "Point", "coordinates": [ 80.1973044, 13.0828414 ] } },
+{ "type": "Feature", "properties": { "element": "way", "id": 30973300, "man_made": "water_works", "name": "Kilpauk Water Works" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 80.2360013, 13.0874949 ], [ 80.2361307, 13.0879768 ], [ 80.2361483, 13.0880513 ], [ 80.2366746, 13.0928258 ], [ 80.2340944, 13.0929991 ], [ 80.2321185, 13.0927141 ], [ 80.2314771, 13.0886075 ], [ 80.2343811, 13.0880152 ], [ 80.2360013, 13.0874949 ] ] ] } }
+]
+}
